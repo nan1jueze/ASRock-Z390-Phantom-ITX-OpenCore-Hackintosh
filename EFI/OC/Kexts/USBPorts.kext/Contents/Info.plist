@@ -37,9 +37,7 @@
 			<key>IOProviderMergeProperties</key>
 			<dict>
 				<key>port-count</key>
-				<data>
-				FgAAAA==
-				</data>
+				<data>FwAAAA==</data>
 				<key>ports</key>
 				<dict>
 					<key>HS03</key>
@@ -79,9 +77,7 @@
 						<key>kUSBWakePortCurrentLimit</key>
 						<integer>2100</integer>
 						<key>port</key>
-						<data>
-						AwAAAA==
-						</data>
+						<data>AwAAAA==</data>
 						<key>port-statistics</key>
 						<dict>
 							<key>kPortStatAddressFailureCount</key>
@@ -156,9 +152,7 @@
 						<key>kUSBWakePortCurrentLimit</key>
 						<integer>2100</integer>
 						<key>port</key>
-						<data>
-						BAAAAA==
-						</data>
+						<data>BAAAAA==</data>
 						<key>port-statistics</key>
 						<dict>
 							<key>kPortStatAddressFailureCount</key>
@@ -233,9 +227,7 @@
 						<key>kUSBWakePortCurrentLimit</key>
 						<integer>2100</integer>
 						<key>port</key>
-						<data>
-						BQAAAA==
-						</data>
+						<data>BQAAAA==</data>
 						<key>port-statistics</key>
 						<dict>
 							<key>kPortStatAddressFailureCount</key>
@@ -310,9 +302,7 @@
 						<key>kUSBWakePortCurrentLimit</key>
 						<integer>2100</integer>
 						<key>port</key>
-						<data>
-						BgAAAA==
-						</data>
+						<data>BgAAAA==</data>
 						<key>port-statistics</key>
 						<dict>
 							<key>kPortStatAddressFailureCount</key>
@@ -381,9 +371,7 @@
 						<key>kUSBHostPortPropertyOffset</key>
 						<integer>0</integer>
 						<key>port</key>
-						<data>
-						CAAAAA==
-						</data>
+						<data>CAAAAA==</data>
 						<key>port-statistics</key>
 						<dict>
 							<key>kPortStatAddressFailureCount</key>
@@ -452,9 +440,7 @@
 						<key>kUSBHostPortPropertyOffset</key>
 						<integer>0</integer>
 						<key>port</key>
-						<data>
-						CQAAAA==
-						</data>
+						<data>CQAAAA==</data>
 						<key>port-statistics</key>
 						<dict>
 							<key>kPortStatAddressFailureCount</key>
@@ -492,6 +478,81 @@
 						<key>port-status</key>
 						<integer>4354</integer>
 					</dict>
+					<key>HS10</key>
+					<dict>
+						<key>IOGeneralInterest</key>
+						<string>IOCommand is not serializable</string>
+						<key>IOPowerManagement</key>
+						<dict>
+							<key>CapabilityFlags</key>
+							<integer>65536</integer>
+							<key>CurrentPowerState</key>
+							<integer>2</integer>
+							<key>DevicePowerState</key>
+							<integer>2</integer>
+							<key>DriverPowerState</key>
+							<integer>0</integer>
+							<key>MaxPowerState</key>
+							<integer>3</integer>
+						</dict>
+						<key>UsbConnector</key>
+						<integer>0</integer>
+						<key>device-properties</key>
+						<dict>
+							<key>acpi-device</key>
+							<string>IOACPIPlatformDevice is not serializable</string>
+							<key>acpi-path</key>
+							<string>IOACPIPlane:/_SB/PCI0@0/XHC@140000/RHUB@0/HS10@a</string>
+						</dict>
+						<key>kUSBBusCurrentAllocation</key>
+						<integer>0</integer>
+						<key>kUSBBusCurrentSleepAllocation</key>
+						<integer>0</integer>
+						<key>kUSBHostPortPropertyOffset</key>
+						<integer>0</integer>
+						<key>kUSBSleepPortCurrentLimit</key>
+						<integer>2100</integer>
+						<key>kUSBWakePortCurrentLimit</key>
+						<integer>2100</integer>
+						<key>port</key>
+						<data>CgAAAA==</data>
+						<key>port-statistics</key>
+						<dict>
+							<key>kPortStatAddressFailureCount</key>
+							<integer>0</integer>
+							<key>kPortStatConnectCount</key>
+							<integer>0</integer>
+							<key>kPortStatEOF2ViolationCount</key>
+							<integer>0</integer>
+							<key>kPortStatEOF2ViolationCurrentConnectCount</key>
+							<integer>0</integer>
+							<key>kPortStatEOF2ViolationDuringResetCount</key>
+							<integer>0</integer>
+							<key>kPortStatEOF2ViolationDuringResumeCount</key>
+							<integer>0</integer>
+							<key>kPortStatEOF2ViolationRecoveryDuringResetCount</key>
+							<integer>0</integer>
+							<key>kPortStatEnumerationFailureCount</key>
+							<integer>0</integer>
+							<key>kPortStatOverCurrentCount</key>
+							<integer>0</integer>
+							<key>kPortStatPowerStateTime</key>
+							<dict>
+								<key>kPowerStateOff</key>
+								<string>0ms (0%)</string>
+								<key>kPowerStateOn</key>
+								<string>233ms (0%)</string>
+								<key>kPowerStateSleep</key>
+								<string>0ms (0%)</string>
+								<key>kPowerStateSuspended</key>
+								<string>93381ms (99%)</string>
+							</dict>
+							<key>kPortStatRemoteWakeCount</key>
+							<integer>0</integer>
+						</dict>
+						<key>port-status</key>
+						<integer>0</integer>
+					</dict>
 					<key>HS14</key>
 					<dict>
 						<key>IOGeneralInterest</key>
@@ -523,9 +584,7 @@
 						<key>kUSBHostPortPropertyOffset</key>
 						<integer>0</integer>
 						<key>port</key>
-						<data>
-						DgAAAA==
-						</data>
+						<data>DgAAAA==</data>
 						<key>port-statistics</key>
 						<dict>
 							<key>kPortStatAddressFailureCount</key>
@@ -602,9 +661,7 @@
 						<key>link-error-count</key>
 						<integer>0</integer>
 						<key>port</key>
-						<data>
-						EQAAAA==
-						</data>
+						<data>EQAAAA==</data>
 						<key>port-statistics</key>
 						<dict>
 							<key>kPortStatAddressFailureCount</key>
@@ -681,9 +738,7 @@
 						<key>link-error-count</key>
 						<integer>0</integer>
 						<key>port</key>
-						<data>
-						EgAAAA==
-						</data>
+						<data>EgAAAA==</data>
 						<key>port-statistics</key>
 						<dict>
 							<key>kPortStatAddressFailureCount</key>
@@ -760,9 +815,7 @@
 						<key>link-error-count</key>
 						<integer>0</integer>
 						<key>port</key>
-						<data>
-						EwAAAA==
-						</data>
+						<data>EwAAAA==</data>
 						<key>port-statistics</key>
 						<dict>
 							<key>kPortStatAddressFailureCount</key>
@@ -839,9 +892,7 @@
 						<key>link-error-count</key>
 						<integer>0</integer>
 						<key>port</key>
-						<data>
-						FAAAAA==
-						</data>
+						<data>FAAAAA==</data>
 						<key>port-statistics</key>
 						<dict>
 							<key>kPortStatAddressFailureCount</key>
@@ -918,9 +969,7 @@
 						<key>link-error-count</key>
 						<integer>0</integer>
 						<key>port</key>
-						<data>
-						FQAAAA==
-						</data>
+						<data>FQAAAA==</data>
 						<key>port-statistics</key>
 						<dict>
 							<key>kPortStatAddressFailureCount</key>
@@ -997,9 +1046,84 @@
 						<key>link-error-count</key>
 						<integer>0</integer>
 						<key>port</key>
-						<data>
-						FgAAAA==
-						</data>
+						<data>FgAAAA==</data>
+						<key>port-statistics</key>
+						<dict>
+							<key>kPortStatAddressFailureCount</key>
+							<integer>0</integer>
+							<key>kPortStatConnectCount</key>
+							<integer>0</integer>
+							<key>kPortStatEOF2ViolationCount</key>
+							<integer>0</integer>
+							<key>kPortStatEOF2ViolationCurrentConnectCount</key>
+							<integer>0</integer>
+							<key>kPortStatEOF2ViolationDuringResetCount</key>
+							<integer>0</integer>
+							<key>kPortStatEOF2ViolationDuringResumeCount</key>
+							<integer>0</integer>
+							<key>kPortStatEOF2ViolationRecoveryDuringResetCount</key>
+							<integer>0</integer>
+							<key>kPortStatEnumerationFailureCount</key>
+							<integer>0</integer>
+							<key>kPortStatOverCurrentCount</key>
+							<integer>0</integer>
+							<key>kPortStatPowerStateTime</key>
+							<dict>
+								<key>kPowerStateOff</key>
+								<string>0ms (0%)</string>
+								<key>kPowerStateOn</key>
+								<string>293ms (0%)</string>
+								<key>kPowerStateSleep</key>
+								<string>0ms (0%)</string>
+								<key>kPowerStateSuspended</key>
+								<string>93346ms (99%)</string>
+							</dict>
+							<key>kPortStatRemoteWakeCount</key>
+							<integer>0</integer>
+						</dict>
+						<key>port-status</key>
+						<integer>0</integer>
+					</dict>
+					<key>SS07</key>
+					<dict>
+						<key>IOGeneralInterest</key>
+						<string>IOCommand is not serializable</string>
+						<key>IOPowerManagement</key>
+						<dict>
+							<key>CapabilityFlags</key>
+							<integer>65536</integer>
+							<key>CurrentPowerState</key>
+							<integer>2</integer>
+							<key>DevicePowerState</key>
+							<integer>2</integer>
+							<key>DriverPowerState</key>
+							<integer>0</integer>
+							<key>MaxPowerState</key>
+							<integer>3</integer>
+						</dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>device-properties</key>
+						<dict>
+							<key>acpi-device</key>
+							<string>IOACPIPlatformDevice is not serializable</string>
+							<key>acpi-path</key>
+							<string>IOACPIPlane:/_SB/PCI0@0/XHC@140000/RHUB@0/SS07@17</string>
+						</dict>
+						<key>kUSBBusCurrentAllocation</key>
+						<integer>150</integer>
+						<key>kUSBBusCurrentSleepAllocation</key>
+						<integer>0</integer>
+						<key>kUSBHostPortPropertyOffset</key>
+						<integer>16</integer>
+						<key>kUSBSleepPortCurrentLimit</key>
+						<integer>2100</integer>
+						<key>kUSBWakePortCurrentLimit</key>
+						<integer>2100</integer>
+						<key>link-error-count</key>
+						<integer>0</integer>
+						<key>port</key>
+						<data>FwAAAA==</data>
 						<key>port-statistics</key>
 						<dict>
 							<key>kPortStatAddressFailureCount</key>
@@ -1057,9 +1181,7 @@
 			<key>IOProviderMergeProperties</key>
 			<dict>
 				<key>port-count</key>
-				<data>
-				BAAAAA==
-				</data>
+				<data>BAAAAA==</data>
 				<key>ports</key>
 				<dict>
 					<key>HSP1</key>
@@ -1084,18 +1206,14 @@
 							<key>UsbCompanionControllerName</key>
 							<string>XHC2</string>
 							<key>UsbCompanionPortNumber</key>
-							<data>
-							AwAAAA==
-							</data>
+							<data>AwAAAA==</data>
 						</dict>
 						<key>UsbCompanionSSP</key>
 						<dict>
 							<key>UsbCompanionControllerName</key>
 							<string>XHC2</string>
 							<key>UsbCompanionPortNumber</key>
-							<data>
-							AwAAAA==
-							</data>
+							<data>AwAAAA==</data>
 						</dict>
 						<key>UsbConnector</key>
 						<integer>9</integer>
@@ -1119,9 +1237,7 @@
 						<key>kUSBWakePortCurrentLimit</key>
 						<integer>2100</integer>
 						<key>port</key>
-						<data>
-						AQAAAA==
-						</data>
+						<data>AQAAAA==</data>
 						<key>port-statistics</key>
 						<dict>
 							<key>kPortStatAddressFailureCount</key>
@@ -1181,18 +1297,14 @@
 							<key>UsbCompanionControllerName</key>
 							<string>XHC2</string>
 							<key>UsbCompanionPortNumber</key>
-							<data>
-							BAAAAA==
-							</data>
+							<data>BAAAAA==</data>
 						</dict>
 						<key>UsbCompanionSSP</key>
 						<dict>
 							<key>UsbCompanionControllerName</key>
 							<string>XHC2</string>
 							<key>UsbCompanionPortNumber</key>
-							<data>
-							BAAAAA==
-							</data>
+							<data>BAAAAA==</data>
 						</dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
@@ -1220,9 +1332,7 @@
 						<key>kUSBWakePortCurrentLimit</key>
 						<integer>3000</integer>
 						<key>port</key>
-						<data>
-						AgAAAA==
-						</data>
+						<data>AgAAAA==</data>
 						<key>port-statistics</key>
 						<dict>
 							<key>kPortStatAddressFailureCount</key>
@@ -1282,27 +1392,21 @@
 							<key>UsbCompanionControllerName</key>
 							<string>XHC2</string>
 							<key>UsbCompanionPortNumber</key>
-							<data>
-							AQAAAA==
-							</data>
+							<data>AQAAAA==</data>
 						</dict>
 						<key>UsbCompanionHS</key>
 						<dict>
 							<key>UsbCompanionControllerName</key>
 							<string>XHC2</string>
 							<key>UsbCompanionPortNumber</key>
-							<data>
-							AQAAAA==
-							</data>
+							<data>AQAAAA==</data>
 						</dict>
 						<key>UsbCompanionLS</key>
 						<dict>
 							<key>UsbCompanionControllerName</key>
 							<string>XHC2</string>
 							<key>UsbCompanionPortNumber</key>
-							<data>
-							AQAAAA==
-							</data>
+							<data>AQAAAA==</data>
 						</dict>
 						<key>UsbConnector</key>
 						<integer>9</integer>
@@ -1332,9 +1436,7 @@
 						<key>link-error-count</key>
 						<integer>0</integer>
 						<key>port</key>
-						<data>
-						AwAAAA==
-						</data>
+						<data>AwAAAA==</data>
 						<key>port-statistics</key>
 						<dict>
 							<key>kPortStatAddressFailureCount</key>
@@ -1394,27 +1496,21 @@
 							<key>UsbCompanionControllerName</key>
 							<string>XHC2</string>
 							<key>UsbCompanionPortNumber</key>
-							<data>
-							AgAAAA==
-							</data>
+							<data>AgAAAA==</data>
 						</dict>
 						<key>UsbCompanionHS</key>
 						<dict>
 							<key>UsbCompanionControllerName</key>
 							<string>XHC2</string>
 							<key>UsbCompanionPortNumber</key>
-							<data>
-							AgAAAA==
-							</data>
+							<data>AgAAAA==</data>
 						</dict>
 						<key>UsbCompanionLS</key>
 						<dict>
 							<key>UsbCompanionControllerName</key>
 							<string>XHC2</string>
 							<key>UsbCompanionPortNumber</key>
-							<data>
-							AgAAAA==
-							</data>
+							<data>AgAAAA==</data>
 						</dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
@@ -1442,9 +1538,7 @@
 						<key>link-error-count</key>
 						<integer>0</integer>
 						<key>port</key>
-						<data>
-						BAAAAA==
-						</data>
+						<data>BAAAAA==</data>
 						<key>port-statistics</key>
 						<dict>
 							<key>kPortStatAddressFailureCount</key>
